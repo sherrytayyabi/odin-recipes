@@ -1,0 +1,1 @@
+This is the beginning foundations Project: Recipes course. We will be building a basic recipe website. 
